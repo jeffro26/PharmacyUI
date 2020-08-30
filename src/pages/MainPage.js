@@ -15,9 +15,6 @@ const useStyles = makeStyles({
     justifyContent: "space-around",
     overflow: "hidden",
     backgroundColor: "white"
-  },
-  container: {
-    width: 1400
   }
 });
 
